@@ -1,6 +1,6 @@
 {
   "name": "simple-scraper",
-  "module": "index.ts",
+  "module": "/types/index.ts",
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest"
